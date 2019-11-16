@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Foxtail Eco Retreat
+feature_image: "/images/image01.jpeg"
 ---
 
 
