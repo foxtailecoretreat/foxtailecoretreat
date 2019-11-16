@@ -1,9 +1,7 @@
 ---
-title: Welcome to my website
+title: Foxtail Eco Retreat
 layout: page
 feature_image: "/images/image02.jpeg"
-feature_text: |
-  ## Foxtail Eco Retreat
 ---
 
-#### the perfect getaway for wildlife and nature experience.
+#### The perfect getaway for wildlife and nature experience.
