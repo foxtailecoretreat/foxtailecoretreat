@@ -17,4 +17,6 @@ Maharashtra 445302 <br />
 </span>
 
 ##### Map Location:
-<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJdwXJAAJT0jsRtulxXOy9tvU&key=AIzaSyDeG3sUjZFYn3a4gk3IqW0P3lXal1ny5yo" allowfullscreen></iframe>
+
+<iframe width='700px' height='600px' id='mapcanvas' src='https://maps.google.com/maps?q=foxtail%20eco%20retreat&amp;t=&amp;z=10&amp;ie=UTF8&amp;iwloc=&amp;output=embed' frameborder='0' scrolling='no' marginheight='0' marginwidth='0'>
+</iframe>
