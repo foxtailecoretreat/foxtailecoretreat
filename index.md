@@ -4,4 +4,4 @@ layout: page
 feature_image: "/images/image02.jpeg"
 ---
 
-#### The perfect getaway for wildlife and nature experience.
+#### This is a small Rustic Eco Retreat in Maharashtra consisting of luxurious tents set in a the backdrop of a dry deciduous jungle. Come here to experience the Jungle in its elements.
