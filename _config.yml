@@ -25,7 +25,7 @@ baseurl: '/'
 title: 'Foxtail Eco Retreat'
 description: 'Foxtail Eco Retreat'
 permalink: pretty
-logo: "/images/logo01.png"
+logo: "/images/logo03.png"
 
 # Pagination
 paginate: 5
