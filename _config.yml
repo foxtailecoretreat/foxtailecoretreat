@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://peethani.me'
+url: 'https://www.foxtailecoretreat.com'
 baseurl: '/'
 title: 'Foxtail Eco Retreat'
 description: 'Foxtail Eco Retreat'
