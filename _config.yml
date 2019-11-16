@@ -22,10 +22,10 @@ plugins:
 # Site settings
 url: 'https://peethani.me'
 baseurl: '/'
-title: 'Lakshman Peethani'
-description: 'Lakshman Peethani'
+title: 'Foxtail Eco Retreat'
+description: 'Foxtail Eco Retreat'
 permalink: pretty
-logo: "/avatar.png"
+logo: "/images/logo01.png"
 
 # Pagination
 paginate: 5

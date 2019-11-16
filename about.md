@@ -1,6 +1,12 @@
 ---
 layout: page
-title: About this website
+title: Foxtail Eco Retreat
 ---
 
-My name Lakshman Peethani, I'm a Solution Architect, Technology Enthusiast, Photographer.
+
+## Address:
+<p>
+Sunna Gate, Tipeswar WLS,
+Pandarkhwada, Pandharkawada,
+Maharashtra 445302
+</p>
