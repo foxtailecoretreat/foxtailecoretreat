@@ -8,6 +8,7 @@ feature_image: "/images/image02.jpeg"
 
 <hr />
 
+[Check Tent availability](/enquiry)
 
 ![Foxtail Eco Retreat](/images/image01.jpeg "Logo Title Text 1")
 
