@@ -46,8 +46,13 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: Phone +919676871777
+  url: tel:+919676871777
+- title: Email
+  url: mailto:foxtailbookings@gmail.com
+# - title: # Back to top
+#   url: "#top"
+
 
 # Collections
 collections:
