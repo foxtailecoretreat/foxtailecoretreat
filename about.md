@@ -14,6 +14,7 @@ feature_image: "/images/image01.jpeg"
 Sunna Gate, Tipeswar WLS,<br />
 Pandarkhwada, Pandharkawada, <br />
 Maharashtra 445302 <br />
+[Email:foxtailbookings@gmail.com](mailto:foxtailbookings@gmail.com)
 </span>
 
 ##### Map Location:
